@@ -20,7 +20,6 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Title                                                                                 |    Venue     |            Dataset             |                                                                          PDF                                                                          |                        CODE                        |
 |:------------------------------------------------------------------------------------- |:------------:|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
 | Learning Graph Embeddings for Compositional Zero-Shot Learning                        |  CVPR 2021   | MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) |   [CODE](https://github.com/ExplainableML/czsl)    |
-| Relation-aware Compositional Zero-shot Learning for Attribute-Object Pair Recognition |  CVPR 2021   |     MIT-States & UT-Zappos     |                                        [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9513585)                                        | [CODE](https://github.com/daoyuan98/Relation-CZSL) |
 | Open World Compositional Zero-Shot Learning                                           |  CVPR 2021   |     MIT-States & UT-Zappos     |                                        [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9578210)                                        |   [CODE](https://github.com/ExplainableML/czsl)    |
 | Independent Prototype Propagation for Zero-Shot Compositionality                      | NeurIPS 2021 |      AO-Clevr & UT-Zappos      |                                                      [PDF](https://arxiv.org/pdf/2106.00305.pdf)                                                      |   [CODE](https://github.com/FrankRuis/ProtoProp)   |
 | Learning Single/Multi-Attribute of Object with Symmetry and Group                     |  TPAMI 2021  |     MIT-States & UT-Zappos     |                                                        [PDF](https://arxiv.org/pdf/2110.04603)                                                        |  [CODE](https://github.com/DirtyHarryLYL/SymNet)   |
@@ -80,7 +79,7 @@ Source:https://vision.cs.utexas.edu/projects/finegrained/utzap50k/
 
 ### C-GQA
 
-Introduced by Muhammad et al. in [Learning Graph Embeddings for Compositional Zero-shot Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf).
+Introduced by Naeem et al. in [Learning Graph Embeddings for Compositional Zero-shot Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf).
 
 Compositional GQA (C-GQA) dataset is curated from the recent Stanford [GQA](https://cs.stanford.edu/people/dorarad/gqa/) dataset originally proposed for VQA.  C-GQA includes 453 attribute classes and 870 object classes, contains over 9.5k compositional labels with diverse compositional classes and clean annotations, making it the most extensive dataset for CZSL.
 
@@ -104,11 +103,70 @@ Source:https://github.com/nirat1606/OADis.
 
 ### Compositional PartNet
 
-Introduced by Muhammad et al. in [3D Compositional Zero-shot Learning with DeCompositional Consensus](https://arxiv.org/pdf/2111.14673).
+Introduced by Naeem et al. in [3D Compositional Zero-shot Learning with DeCompositional Consensus](https://arxiv.org/pdf/2111.14673).
 
 Compositional PartNet (C-PartNet) is refined from [PartNet](https://partnet.cs.stanford.edu) with a new labeling scheme that relates the compositional knowledge between objects by merging and renaming the repeated labels. The relabelled C-PartNet consists of 96 parts compared to 128 distinct part labels in the original PartNet.
 
 Source:https://github.com/ferjad/3DCZSL
+
+##  Results
+
+Experimental results of some methods on the two most commonly-used datasets(MIT-States, UT-Zappos) and the most challenging dataset(C-GQA) are collected and presented.
+
+All the results are obtained under the setting of Closed World Generalized Compositional Zero-Shot Learning. The current optimal metrics are in **bold**. 
+
+### MIT-States
+
+| Method | Seen | Unseen | HM   | AUC  |
+| ------ | ---- | ------ | ---- | ---- |
+| DECA   | 32.2 | 27.4 | 20.3 | **6.6** |
+| KG-SP  | 20.5 | 6.3 | 5.0 | 0.77 |
+| OADis  | 31.1 | 25.6 | 18.9 | 5.9 |
+| SCEN | 29.9 | 25.2 | 18.4 | 5.3 |
+| CVGAE | 28.5 | 25.5 | 18.2 | 5.3 |
+| Co-CGE | 31.1 | 5.8 | 6.4 | 1.1 |
+| CGE | 32.8 | **28.0** | **21.4** | 6.5 |
+| BMP-Net | **32.9** | 19.3 | 16.5 | 4.3 |
+| CompCos | 25.3 | 24.6 | 16.4 | 4.5 |
+| SymNet(CVPR) | 24.4 | 25.2 | 16.1 | 3.0 |
+| SymNet(TPAMI) | 26.2 | 26.3 | 16.8 | 4.5 |
+| HiDC | - | 15.4 | 15.0 | - |
+| AdvFineGrained | - | 13.5 | 14.0 | - |
+| TMN | 20.2 | 20.1 | 13.0 | 2.9 |
+| GenModel | 24.8 | 13.4 | 11.2 | 2.3 |
+| AttrAsOp | 14.3 | 17.4 | 9.9 | 1.6 |
+| RedWine | 20.7 | 17.9 | 11.6 | 2.4 |
+
+### UT-Zappos
+Method | Seen | Unseen | HM | AUC |
+|-- | -- | -- | -- | -- |
+| DECA  | 64.0 | 68.8 | 51.7 | 37.0 |
+| KG-SP | 60.0 | 43.3 | 40.2 | 22.6 | 
+| OADis  | 59.5 | 65.5 | 44.4 | 30.0 |
+| SCEN | 63.5 | 63.1 | 47.8 | 32.0 |
+| CVGAE | 65.0 | 62.4 | 49.8 | 34.6 |
+| ProtoProp | 62.1 | 65.5 | 50.2 | 34.7 |
+| Co-CGE | 62.0 | 44.3 | 40.3 | 23.1 |
+| CGE | 64.5 | **71.5** | **60.5** | 33.5 |
+| BMP-Net | **83.9** | 60.9 | 56.9 | **44.7** |
+| CompCos | 59.8 | 62.5 | 43.1 | 28.7 |
+| SymNet(TPAMI) | 10.3 | 56.3 | 24.1 | 26.8 |
+| HiDC | - | 53.4 | 52.4 | - |
+| CAUSAL | 39.7 | 26.6 | 31.8 | 23.3 |
+| AdvFineGrained | - | 48.5 | 50.7 | - |
+| TMN | 58.7 | 60.0 | 45.0 | 29.3 |
+| AttrAsOp | 59.8 | 54.2 | 40.8 | 25.9 |
+| RedWine | 57.3 | 62.3 | 41.0 | 27.1 |
+
+### C-GQA
+Method | Seen | Unseen | HM | AUC |
+|-- | -- | -- | -- | -- |
+| KG-SP | 29.2 | 2.4 | 4.1 | 0.61 | 
+| SCEN | 28.9 | **25.4** | **17.5** | **5.5** |
+| CVGAE | 28.2 | 11.9 | 13.9 | 2.8 |
+| Co-CGE | **32.1** | 2.0 | 3.4 | 0.78 |
+| CGE | 31.4 | 14.0 | 14.5 | 3.6 |
+
 
 ##  Acknowledgements
 This page is made by [Yanyi Zhang](https://github.com/Yanyi-Zhang) and [Jianghao Li](https://github.com/liccoco), both of whom are graduate students of Dalian University of Technology and supervised by Prof.[Yu Liu](https://liuyudut.github.io) and Prof.[Qi Jia](http://faculty.dlut.edu.cn/guqi/zh_CN/index.htm).
