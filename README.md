@@ -30,9 +30,10 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 ### 2020
 | Title                                                                   |    Venue     |        Dataset         |                                                                   PDF                                                                    |                           CODE                            |
 |:----------------------------------------------------------------------- |:------------:|:----------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|
-| Symmetry and Group in Attribute-Object Compositions                     |  CVPR 2020   | MIT-States & UT-Zappos | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Symmetry_and_Group_in_Attribute-Object_Compositions_CVPR_2020_paper.pdf) |      [CODE](https://github.com/DirtyHarryLYL/SymNet)      |
-| Learning Unseen Concepts via Hierarchical Decomposition and Composition |  CVPR 2020   | MIT-States & UT-Zappos |                                 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156655)                                  |                             -                             |
-| A causal view of compositional zero-shot recognition                    | NeurIPS 2020 |  UT-Zappos & AO-Clevr  |                         [PDF](https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf)                         | [CODE](https://github.com/nv-research-israel/causal_comp) |
+| Symmetry and Group in Attribute-Object Compositions|  CVPR 2020   | MIT-States & UT-Zappos | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Symmetry_and_Group_in_Attribute-Object_Compositions_CVPR_2020_paper.pdf) | [CODE](https://github.com/DirtyHarryLYL/SymNet)|
+| Learning Unseen Concepts via Hierarchical Decomposition and Composition |  CVPR 2020   | MIT-States & UT-Zappos | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156655) | - |
+| A causal view of compositional zero-shot recognition | NeurIPS 2020 |  UT-Zappos & AO-Clevr  | [PDF](https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf) | [CODE](https://github.com/nv-research-israel/causal_comp) |
+| Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition | NeurIPS 2020 | DFashion & AWA2 & CUB & SUN | [PDF](https://proceedings.neurips.cc/paper/2020/file/e58cc5ca94270acaceed13bc82dfedf7-Paper.pdf)| [CODE](https://github.com/hbdat/neurIPS20_CompositionZSL)|
 
 
 ### 2019
