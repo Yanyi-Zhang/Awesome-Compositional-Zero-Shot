@@ -170,4 +170,4 @@ Method | Seen | Unseen | HM | AUC |
 
 
 ##  Acknowledgements
-This page is made by [Yanyi Zhang](https://github.com/Yanyi-Zhang) and [Jianghao Li](https://github.com/liccoco), both of whom are graduate students of Dalian University of Technology and supervised by Prof.[Yu Liu](https://liuyudut.github.io) and Prof.[Qi Jia](http://faculty.dlut.edu.cn/guqi/zh_CN/index.htm).
+This page is made by [Yanyi Zhang](https://github.com/Yanyi-Zhang) and [Jianghao Li](https://github.com/liccoco), both of whom are graduate students of Dalian University of Technology.
