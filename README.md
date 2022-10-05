@@ -13,6 +13,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning                 | CVPR 2022 |  MIT-States & UT-Zappos & C-GQA   | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Siamese_Contrastive_Embedding_Network_for_Compositional_Zero-Shot_Learning_CVPR_2022_paper.pdf) | [CODE](https://github.com/XDUxyLi/SCEN-master) |
 | On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning |   arXiv   |  MIT-States & UT-Zappos & C-GQA   | [PDF](https://arxiv.org/abs/2204.11848) | -  |
 | 3D Compositional Zero-shot Learning with DeCompositional Consensus | ECCV 2022 | C-PartNet  | [PDF](https://arxiv.org/pdf/2111.14673.pdf)|    [CODE](https://github.com/ferjad/3DCZSL)    |
+| Learning Invariant Visual Representations for Compositional Zero-Shot Learning | ECCV 2022 | UT-Zappos & AO-CLEVr & Clothing16K | [PDF](https://arxiv.org/pdf/2206.00415.pdf)|    [CODE]([https://github.com/ferjad/3DCZSL](https://github.com/PRIS-CV/IVR))    |
 | Learning Graph Embeddings for Open World Compositional Zero-Shot Learning |TPAMI 2022| MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2105.01017)| - |
 
 
@@ -142,6 +143,7 @@ All the results are obtained under the setting of Closed World Generalized Compo
 Method | Seen | Unseen | HM | AUC |
 |-- | -- | -- | -- | -- |
 | DECA  | 64.0 | 68.8 | 51.7 | 37.0 |
+| IVR  | 56.9 | 65.5 | 46.2 | 30.6 |
 | KG-SP | 60.0 | 43.3 | 40.2 | 22.6 | 
 | OADis  | 59.5 | 65.5 | 44.4 | 30.0 |
 | SCEN | 63.5 | 63.1 | 47.8 | 32.0 |
