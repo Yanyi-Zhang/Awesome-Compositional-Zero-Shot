@@ -13,7 +13,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning                 | CVPR 2022 |  MIT-States & UT-Zappos & C-GQA   | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Siamese_Contrastive_Embedding_Network_for_Compositional_Zero-Shot_Learning_CVPR_2022_paper.pdf) | [CODE](https://github.com/XDUxyLi/SCEN-master) |
 | On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning |   arXiv   |  MIT-States & UT-Zappos & C-GQA   | [PDF](https://arxiv.org/abs/2204.11848) | -  |
 | 3D Compositional Zero-shot Learning with DeCompositional Consensus | ECCV 2022 | C-PartNet  | [PDF](https://arxiv.org/pdf/2111.14673.pdf)|    [CODE](https://github.com/ferjad/3DCZSL)    |
-| Learning Invariant Visual Representations for Compositional Zero-Shot Learning | ECCV 2022 | UT-Zappos & AO-CLEVr & Clothing16K | [PDF](https://arxiv.org/pdf/2206.00415.pdf)|    [CODE](https://github.com/PRIS-CV/IVR))    |
+| Learning Invariant Visual Representations for Compositional Zero-Shot Learning | ECCV 2022 | UT-Zappos & AO-CLEVr & Clothing16K | [PDF](https://arxiv.org/pdf/2206.00415.pdf)|    [CODE](https://github.com/PRIS-CV/IVR)    |
 | Learning Graph Embeddings for Open World Compositional Zero-Shot Learning |TPAMI 2022| MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2105.01017)| - |
 
 
