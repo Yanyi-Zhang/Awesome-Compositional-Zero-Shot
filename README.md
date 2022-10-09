@@ -143,7 +143,7 @@ All the results are obtained under the setting of Closed World Generalized Compo
 Method | Seen | Unseen | HM | AUC |
 |-- | -- | -- | -- | -- |
 | DECA  | 64.0 | 68.8 | 51.7 | 37.0 |
-| IVR  | 56.9 | 65.5 | 46.2 | 30.6 |
+| IVR(fixed)  | 56.9 | 65.5 | 46.2 | 30.6 |
 | KG-SP | 60.0 | 43.3 | 40.2 | 22.6 | 
 | OADis  | 59.5 | 65.5 | 44.4 | 30.0 |
 | SCEN | 63.5 | 63.1 | 47.8 | 32.0 |
