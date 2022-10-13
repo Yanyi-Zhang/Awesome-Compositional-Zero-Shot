@@ -122,7 +122,7 @@ All the results are obtained under the setting of Closed World Generalized Compo
 | Method | Seen | Unseen | HM   | AUC  |
 | ------ | ---- | ------ | ---- | ---- |
 | DECA   | 32.2 | 27.4 | 20.3 | **6.6** |
-| KG-SP  | 20.5 | 6.3 | 5.0 | 0.77 |
+| KG-SP(fixed)  | 20.5 | 6.3 | 5.0 | 0.77 |
 | OADis  | 31.1 | 25.6 | 18.9 | 5.9 |
 | SCEN | 29.9 | 25.2 | 18.4 | 5.3 |
 | CVGAE | 28.5 | 25.5 | 18.2 | 5.3 |
@@ -144,7 +144,7 @@ Method | Seen | Unseen | HM | AUC |
 |-- | -- | -- | -- | -- |
 | DECA  | 64.0 | 68.8 | 51.7 | 37.0 |
 | IVR(fixed)  | 56.9 | 65.5 | 46.2 | 30.6 |
-| KG-SP | 60.0 | 43.3 | 40.2 | 22.6 | 
+| KG-SP(fixed) | 60.0 | 43.3 | 40.2 | 22.6 | 
 | OADis  | 59.5 | 65.5 | 44.4 | 30.0 |
 | SCEN | 63.5 | 63.1 | 47.8 | 32.0 |
 | CVGAE | 65.0 | 62.4 | 49.8 | 34.6 |
@@ -164,7 +164,7 @@ Method | Seen | Unseen | HM | AUC |
 ### C-GQA
 Method | Seen | Unseen | HM | AUC |
 |-- | -- | -- | -- | -- |
-| KG-SP | 29.2 | 2.4 | 4.1 | 0.61 | 
+| KG-SP(fixed) | 29.2 | 2.4 | 4.1 | 0.61 | 
 | SCEN | 28.9 | **25.4** | **17.5** | **5.5** |
 | CVGAE | 28.2 | 11.9 | 13.9 | 2.8 |
 | Co-CGE | **32.1** | 2.0 | 3.4 | 0.78 |
