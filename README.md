@@ -8,6 +8,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
 | Isolating Features of Object and Its State for Compositional Zero-Shot Learning | TETCI 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10015197)|    -    |
+| Learning Attention Propagation for Compositional Zero-Shot Learning | WACV 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Khan_Learning_Attention_Propagation_for_Compositional_Zero-Shot_Learning_WACV_2023_paper.pdf)|    -    |
 
 ### 2022
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
@@ -30,6 +31,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Independent Prototype Propagation for Zero-Shot Compositionality                      | NeurIPS 2021 |      AO-Clevr & UT-Zappos      |                                                      [PDF](https://arxiv.org/pdf/2106.00305.pdf)                                                      |   [CODE](https://github.com/FrankRuis/ProtoProp)   |
 | Learning Single/Multi-Attribute of Object with Symmetry and Group                     |  TPAMI 2021  |     MIT-States & UT-Zappos     |                                                        [PDF](https://arxiv.org/pdf/2110.04603)                                                        |  [CODE](https://github.com/DirtyHarryLYL/SymNet)   |
 |Relation-aware Compositional Zero-shot Learning for Attribute-Object Pair Recognition | TMM 2021 | MIT-States & UT-Zappos | [PDF](https://arxiv.org/pdf/2108.04603) | [CODE](https://github.com/daoyuan98/Relation-CZSL) |
+|A Contrastive Learning Approach for Compositional Zero-Shot Learning | ICMI 2021 | MIT-States & UT-Zappos & Fashion200k| [PDF](https://dl.acm.org/doi/abs/10.1145/3462244.3479904) | - |
  
 
 
