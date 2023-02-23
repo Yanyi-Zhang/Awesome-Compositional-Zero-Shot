@@ -21,6 +21,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | 3D Compositional Zero-shot Learning with DeCompositional Consensus | ECCV 2022 | C-PartNet  | [PDF](https://arxiv.org/pdf/2111.14673.pdf)|    [CODE](https://github.com/ferjad/3DCZSL)    |
 | Learning Invariant Visual Representations for Compositional Zero-Shot Learning | ECCV 2022 | UT-Zappos & AO-CLEVr & Clothing16K | [PDF](https://arxiv.org/pdf/2206.00415.pdf)|    [CODE](https://github.com/PRIS-CV/IVR)    |
 | Learning Graph Embeddings for Open World Compositional Zero-Shot Learning |TPAMI 2022| MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2105.01017)| - |
+| Bi-Modal Compositional Network for Feature Disentanglement |ICIP 2022| MIT-States & UT-Zappos | [PDF](https://ieeexplore.ieee.org/document/9897457)| - |
 
 
 ### 2021
