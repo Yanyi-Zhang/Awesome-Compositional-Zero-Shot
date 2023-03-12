@@ -7,6 +7,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 ### 2023
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning | CVPR 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2211.10681)|   [CODE](https://github.com/Forest-art/DFSP)   |
 | Isolating Features of Object and Its State for Compositional Zero-Shot Learning | TETCI 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10015197)|    -    |
 | Learning Attention Propagation for Compositional Zero-Shot Learning | WACV 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Khan_Learning_Attention_Propagation_for_Compositional_Zero-Shot_Learning_WACV_2023_paper.pdf)|    -    |
 
