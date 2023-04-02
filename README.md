@@ -96,7 +96,7 @@ Source:https://vision.cs.utexas.edu/projects/finegrained/utzap50k/
 
 Introduced by Naeem et al. in [Learning Graph Embeddings for Compositional Zero-shot Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf).
 
-Compositional GQA (C-GQA) dataset is curated from the recent Stanford [GQA](https://cs.stanford.edu/people/dorarad/gqa/) dataset originally proposed for VQA.  C-GQA includes 453 attribute classes and 870 object classes, contains over 9.5k compositional labels with diverse compositional classes and clean annotations, making it the most extensive dataset for CZSL.
+Compositional GQA (C-GQA) dataset is curated from the recent Stanford [GQA](https://cs.stanford.edu/people/dorarad/gqa/) dataset originally proposed for VQA.  C-GQA includes 413 attribute classes and 674 object classes, contains over 9.5k compositional labels with diverse compositional classes and clean annotations, making it the most extensive dataset for CZSL.
 
 Source:https://github.com/ExplainableML/czsl
 
