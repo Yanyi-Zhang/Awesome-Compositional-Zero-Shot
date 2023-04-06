@@ -183,4 +183,4 @@ Method | Seen | Unseen | HM | AUC |
 
 
 ##  Acknowledgements
-This page is made by [Yanyi Zhang](https://github.com/Yanyi-Zhang) and [Jianghao Li](https://github.com/liccoco), both of whom are graduate students of Dalian University of Technology.
+This page is made by [Yanyi Zhang](https://github.com/Yanyi-Zhang) and [Jianghao Li](https://github.com/Jianghao-Li), both of whom are graduate students of Dalian University of Technology.
