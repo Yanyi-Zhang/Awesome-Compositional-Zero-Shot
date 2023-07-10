@@ -15,7 +15,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning | CVPR 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2211.10681)|   [CODE](https://github.com/Forest-art/DFSP)   |
 | Learning to Compose Soft Prompts for Compositional Zero-Shot Learning  | ICLR 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://openreview.net/pdf?id=S8-A2FXnIh) |   [CODE](https://github.com/BatsResearch/csp)   |
 | Hierarchical Prompt Learning for Compositional Zero-Shot Recognition  | IJCAI 2023 | MIT-States & UT-Zappos & C-GQA | - |   -   |
-| Leveraging Sub-Class Discrimination for Compositional Zero-shot Learning | AAAI 2023 | UT-Zappos & C-GQA | -|   [CODE](https://github.com/hxm97/SCD-CZSL)   |
+| Leveraging Sub-Class Discrimination for Compositional Zero-shot Learning | AAAI 2023 | UT-Zappos & C-GQA | [PDF](https://doi.org/10.1609/aaai.v37i1.25168)|   [CODE](https://github.com/hxm97/SCD-CZSL)   |
 | Dual-Stream Contrastive Learning for Compositional Zero-Shot Recognition | TMM 2023 | MIT-States & UT-Zappos | [PDF](https://ieeexplore.ieee.org/abstract/document/10044268)|   -   |
 | Isolating Features of Object and Its State for Compositional Zero-Shot Learning | TETCI 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10015197)|    -    |
 | Learning Attention Propagation for Compositional Zero-Shot Learning | WACV 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Khan_Learning_Attention_Propagation_for_Compositional_Zero-Shot_Learning_WACV_2023_paper.pdf)|    -    |
