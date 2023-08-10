@@ -7,8 +7,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 ### 2023
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-| Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning | ICCV 2023 | MIT-States & C-GQA &VAW-CZSL | [PDF](https://arxiv.org/pdf/2308.04016.pdf) | [CODE](https://github.com/HanjaeKim98/
-\CoT) |
+| Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning | ICCV 2023 | MIT-States & C-GQA &VAW-CZSL | [PDF](https://arxiv.org/pdf/2308.04016.pdf) | [CODE](https://github.com/HanjaeKim98/\CoT) |
 | CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning | - | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2305.16681.pdf) | - |
 | Do Vision-Language Pretrained Models Learn Composable Primitive Concepts? | TMLR 2023 | MIT-States | [PDF](https://arxiv.org/pdf/2203.17271.pdf) |  [CODE](https://github.com/tttyuntian/vlm_primitive_concepts) |
 | Reference-Limited Compositional Zero-Shot Learning | ICMR 2023 | RL-CZSL-ATTR & RL-CZSL-ACT | [PDF](https://arxiv.org/pdf/2208.10046) |   [CODE](-)   |
