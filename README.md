@@ -7,7 +7,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 ### 2024
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-| CSCNET: CLASS-SPECIFIED CASCADED NETWORK FOR COMPOSITIONAL ZERO-SHOT LEARNING | ICASSP 2024 | MIT-States & C-GQA | - | - |
+| CSCNET: Class-Specified Cascaded Network for Compositional Zero-Shot Learning | ICASSP 2024 | MIT-States & C-GQA | - | - |
 | Compositional Zero-Shot Learning using Multi-Branch Graph Convolution and Cross-layer Knowledge Sharing | PR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
 | GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-ShotLearning | WACV 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2311.05729.pdf) | [CODE](https://github.com/HLR/GIPCOL) |
 
