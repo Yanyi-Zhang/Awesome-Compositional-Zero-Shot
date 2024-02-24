@@ -18,6 +18,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning | ICCV 2023 | MIT-States & C-GQA &VAW-CZSL | [PDF](https://arxiv.org/pdf/2308.04016.pdf) | [CODE](https://github.com/HanjaeKim98/CoT) |
 | Do Vision-Language Pretrained Models Learn Composable Primitive Concepts? | TMLR 2023 | MIT-States | [PDF](https://arxiv.org/pdf/2203.17271.pdf) |  [CODE](https://github.com/tttyuntian/vlm_primitive_concepts) |
 | Reference-Limited Compositional Zero-Shot Learning | ICMR 2023 | RL-CZSL-ATTR & RL-CZSL-ACT | [PDF](https://arxiv.org/pdf/2208.10046) |   [CODE](-)   |
+| Compositional Zero-Shot Artistic Font Synthesis | IJCAI 2023 | SSAF & Fonts | [PDF](https://www.ijcai.org/proceedings/2023/122) |   [CODE](-)   |
 | Learning Conditional Attributes for Compositional Zero-Shot Learning | CVPR 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Conditional_Attributes_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf) |   [CODE](https://github.com/wqshmzh/CANet-CZSL)   |
 | Learning Attention as Disentangler for Compositional Zero-shot Learning | CVPR 2023 | Clothing16K & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2303.15111) |   [CODE](https://github.com/haoosz/ade-czsl)   |
 | Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning | CVPR 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2211.10681)|   [CODE](https://github.com/Forest-art/DFSP)   |
