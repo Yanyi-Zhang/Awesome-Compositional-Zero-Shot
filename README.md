@@ -10,7 +10,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning | CVPR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2303.15230) | - |
 | ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | - | - |
 | Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning | TPAMI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10274865?denied=) | - |
-| CSCNET: Class-Specified Cascaded Network for Compositional Zero-Shot Learning | ICASSP 2024 | MIT-States & C-GQA | - | - |
+| CSCNET: Class-Specified Cascaded Network for Compositional Zero-Shot Learning | ICASSP 2024 | MIT-States & C-GQA | - | [PDF](https://github.com/Yanyi-Zhang/CSCNet) |
 | Agree to Disagree: Exploring Partial Semantic Consistency against Visual Deviation for Compositional Zero-Shot Learning | TCDS 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10440562) | - |
 | Compositional Zero-Shot Learning using Multi-Branch Graph Convolution and Cross-layer Knowledge Sharing | PR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
 | GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-ShotLearning | WACV 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2311.05729.pdf) | [CODE](https://github.com/HLR/GIPCOL) |
