@@ -7,6 +7,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 ### 2024
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| Context-based and Diversity-driven Specificity in Compositional Zero-Shot Learning | CVPR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2402.17251) | - |
 | Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning | CVPR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2303.15230) | - |
 | ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | - | - |
 | Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning | TPAMI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10274865?denied=) | - |
