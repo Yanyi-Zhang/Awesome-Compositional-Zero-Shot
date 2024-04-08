@@ -12,6 +12,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning | CVPR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2303.15230) | - |
 | Retrieval-Augmented Primitive Representations for Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28043) | - |
 | ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29164) | [CODE](https://github.com/huofushuo/procc) |
+| A Dynamic Learning Method towards Realistic Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28000) | - |
 | Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning | TPAMI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10274865?denied=) | - |
 | CSCNET: Class-Specified Cascaded Network for Compositional Zero-Shot Learning | ICASSP 2024 | MIT-States & C-GQA | [PDF](https://arxiv.org/abs/2403.05924) | [CODE](https://github.com/Yanyi-Zhang/CSCNet) |
 | Agree to Disagree: Exploring Partial Semantic Consistency against Visual Deviation for Compositional Zero-Shot Learning | TCDS 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10440562) | - |
