@@ -12,12 +12,15 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning | CVPR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2303.15230) | - |
 | Retrieval-Augmented Primitive Representations for Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28043) | - |
 | ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29164) | [CODE](https://github.com/huofushuo/procc) |
+| Revealing the Proximate Long-Tail Distribution in Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28026) | - |
 | A Dynamic Learning Method towards Realistic Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28000) | - |
 | Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning | TPAMI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10274865?denied=) | - |
 | CSCNET: Class-Specified Cascaded Network for Compositional Zero-Shot Learning | ICASSP 2024 | MIT-States & C-GQA | [PDF](https://arxiv.org/abs/2403.05924) | [CODE](https://github.com/Yanyi-Zhang/CSCNet) |
 | Agree to Disagree: Exploring Partial Semantic Consistency against Visual Deviation for Compositional Zero-Shot Learning | TCDS 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10440562) | - |
 | Compositional Zero-Shot Learning using Multi-Branch Graph Convolution and Cross-layer Knowledge Sharing | PR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
+| Mutual Balancing in State-Object Components for Compositional Zero-Shot Learning | PR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320324002024) | - |
 | GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-ShotLearning | WACV 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2311.05729.pdf) | [CODE](https://github.com/HLR/GIPCOL) |
+| CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning | WACV 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/WACV2024/html/Zheng_CAILA_Concept-Aware_Intra-Layer_Adapters_for_Compositional_Zero-Shot_Learning_WACV_2024_paper.html) | - |
 
 ### 2023
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
