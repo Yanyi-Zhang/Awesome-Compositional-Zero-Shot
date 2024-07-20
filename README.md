@@ -7,6 +7,8 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 ### 2024
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition | ECCV 2024 | TSM-18 & VideoSwin-T | [PDF](https://arxiv.org/abs/2407.06113) | [CODE](https://github.com/RongchangLi/ZSCAR_C2C) |
+| Prompting Language-Informed Distribution for Compositional Zero-Shot Learning | ECCV 2024 | MIT-States & C-GQA & VAW-CZSL | [PDF](https://arxiv.org/abs/2305.14428) | [CODE](https://github.com/Cogito2012/PLID) |
 | Beyond Seen Primitive Concepts for Attributes-Objects Compositional Learning | CVPR 2024 | MIT-States & C-GQA & VAW-CZSL | [PDF](https://www.cs.umd.edu/~nirat/beyond_seen_concepts.pdf) | - |
 | Context-based and Diversity-driven Specificity in Compositional Zero-Shot Learning | CVPR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2402.17251) | - |
 | Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning | CVPR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2303.15230) | - |
