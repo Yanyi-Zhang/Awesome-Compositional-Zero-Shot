@@ -5,114 +5,115 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 ##  Papers
 
 ### 2025
-| Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
-|:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-| Beyond Image Classification: A Video Benchmark and Dual-Branch Hybrid Discrimination Framework for Compositional Zero-Shot Learning | CVPR 2025 | - | - | - |
-| LOGICZSL: Exploring Logic-induced Representation for Compositional Zero-shot Learning | CVPR 2025 | - | - | - |
-| Learning Clustering-based Prototypes for Compositional Zero-shot Learning | ICLR 2025 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2502.06501) | [CODE](https://github.com/quhongyu/ClusPro) |
-| Adaptive Fusion Learning for Compositional Zero-Shot Recognition | TMM 2025 | Clothing16K & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/abstract/document/10814709) | - |
-| Compact Latent Primitive Space Learning for Compositional Zero-Shot Learning | TMM 2025 | Clothing16K & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/abstract/document/10855509) | - |
-| Concept-Aware Graph Convolutional Network for Compositional Zero-Shot Learning | TNNLS 2025 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/abstract/document/10856526) | - |
+| Title                                                                                      |   Venue   |                                                                              PDF                                                                               |                      CODE                      |
+|:------------------------------------------------------------------------------------------ |:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| Beyond Image Classification: A Video Benchmark and Dual-Branch Hybrid Discrimination Framework for Compositional Zero-Shot Learning | CVPR 2025 | - | - |
+| LOGICZSL: Exploring Logic-induced Representation for Compositional Zero-shot Learning | CVPR 2025 | - | - |
+| Learning Clustering-based Prototypes for Compositional Zero-shot Learning | ICLR 2025 | [PDF](https://arxiv.org/abs/2502.06501) | [CODE](https://github.com/quhongyu/ClusPro) |
+| Adaptive Fusion Learning for Compositional Zero-Shot Recognition | TMM 2025 | [PDF](https://ieeexplore.ieee.org/abstract/document/10814709) | - |
+| Compact Latent Primitive Space Learning for Compositional Zero-Shot Learning | TMM 2025 | [PDF](https://ieeexplore.ieee.org/abstract/document/10855509) | - |
+| Concept-Aware Graph Convolutional Network for Compositional Zero-Shot Learning | TNNLS 2025 | [PDF](https://ieeexplore.ieee.org/abstract/document/10856526) | - |
+
 
 ### 2024
-| Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
-|:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-| Imaginary-Connected Embedding in Complex Space for Unseen Attribute-Object Discrimination | TPAMI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/abstract/document/10737702) | [CODE](https://github.com/LanchJL/IMAX) |
-| Disentangling Before Composing: Learning Invariant Disentangled Features for Compositional Zero-Shot Learning | TPAMI 2024 | UT-Zappos & C-GQA & AO-CLEVr | [PDF](https://ieeexplore.ieee.org/abstract/document/10737100) | [CODE](https://github.com/PRIS-CV/Disentangling-before-Composing) |
-| Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning | TPAMI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10274865?denied=) | - |
-| C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition | ECCV 2024 | C-GQA & Sth-com | [PDF](https://arxiv.org/abs/2407.06113) | [CODE](https://github.com/RongchangLi/ZSCAR_C2C) |
-| Prompting Language-Informed Distribution for Compositional Zero-Shot Learning | ECCV 2024 | MIT-States & C-GQA & VAW-CZSL | [PDF](https://arxiv.org/abs/2305.14428) | [CODE](https://github.com/Cogito2012/PLID) |
-| MRSP: Learn Multi-representations of Single Primitive for Compositional Zero-Shot Learning | ECCV 2024 | MIT-States UT-Zappos & Clothing16K | [PDF](https://link.springer.com/chapter/10.1007/978-3-031-73650-6_1#Sec8) | - |
-| Understanding Multi-compositional learning in Vision and Language models via Category Theory | ECCV 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06472.pdf) | [CODE](https://github.com/SPChytas/CatCom) |
-| Beyond Seen Primitive Concepts for Attributes-Objects Compositional Learning | CVPR 2024 | MIT-States & C-GQA & VAW-CZSL | [PDF](https://www.cs.umd.edu/~nirat/beyond_seen_concepts.pdf) | - |
-| Context-based and Diversity-driven Specificity in Compositional Zero-Shot Learning | CVPR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2402.17251) | - |
-| Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning | CVPR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2303.15230) | - |
-| Retrieval-Augmented Primitive Representations for Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28043) | - |
-| ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29164) | [CODE](https://github.com/huofushuo/procc) |
-| Revealing the Proximate Long-Tail Distribution in Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28026) | - |
-| A Dynamic Learning Method towards Realistic Compositional Zero-Shot Learning | AAAI 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28000) | - |
-| Continual Compositional Zero-Shot Learning | IJCAI 2024 | UT-Zappos & C-GQA | [PDF](https://www.ijcai.org/proceedings/2024/0191.pdf) | - |
-| CSCNET: Class-Specified Cascaded Network for Compositional Zero-Shot Learning | ICASSP 2024 | MIT-States & C-GQA | [PDF](https://ieeexplore.ieee.org/abstract/document/10638107) | [CODE](https://github.com/Yanyi-Zhang/CSCNet) |
-| Learning Conditional Prompt for Compositional Zero-Shot Learning | ICME 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/abstract/document/10688263/authors#authors) | - |
-| PMGNet: Disentanglement and entanglement benefit mutually for compositional zero-shot learning | CVIU 2024 | UT-Zappos & C-GQA & VAW-CZSL | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1077314224002789) | - |
-| LVAR-CZSL: Learning Visual Attributes Representation for Compositional Zero-Shot Learning | TCSVT 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2403.05924) | [CODE](https://github.com/mxjmxj1/LVAR-CZSL) |
-| Agree to Disagree: Exploring Partial Semantic Consistency against Visual Deviation for Compositional Zero-Shot Learning | TCDS 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10440562) | - |
-| Compositional Zero-Shot Learning using Multi-Branch Graph Convolution and Cross-layer Knowledge Sharing | PR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
-| Visual primitives as words: Alignment and interaction for compositional zero-shot learning | PR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S003132032400565X) | - |
-| Mutual Balancing in State-Object Components for Compositional Zero-Shot Learning | PR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320324002024) | - |
-| GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-ShotLearning | WACV 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2311.05729.pdf) | [CODE](https://github.com/HLR/GIPCOL) |
-| CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning | WACV 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/WACV2024/html/Zheng_CAILA_Concept-Aware_Intra-Layer_Adapters_for_Compositional_Zero-Shot_Learning_WACV_2024_paper.html) | - |
+| Title                                                                                      |   Venue   |                                                                              PDF                                                                               |                      CODE                      |
+|:------------------------------------------------------------------------------------------ |:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| Imaginary-Connected Embedding in Complex Space for Unseen Attribute-Object Discrimination | TPAMI 2024 | [PDF](https://ieeexplore.ieee.org/abstract/document/10737702) | [CODE](https://github.com/LanchJL/IMAX) |
+| Disentangling Before Composing: Learning Invariant Disentangled Features for Compositional Zero-Shot Learning | TPAMI 2024 | [PDF](https://ieeexplore.ieee.org/abstract/document/10737100) | [CODE](https://github.com/PRIS-CV/Disentangling-before-Composing) |
+| Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning | TPAMI 2024 | [PDF](https://ieeexplore.ieee.org/document/10274865?denied=) | - |
+| C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition | ECCV 2024 | [PDF](https://arxiv.org/abs/2407.06113) | [CODE](https://github.com/RongchangLi/ZSCAR_C2C) |
+| Prompting Language-Informed Distribution for Compositional Zero-Shot Learning | ECCV 2024 | [PDF](https://arxiv.org/abs/2305.14428) | [CODE](https://github.com/Cogito2012/PLID) |
+| MRSP: Learn Multi-representations of Single Primitive for Compositional Zero-Shot Learning | ECCV 2024 | [PDF](https://link.springer.com/chapter/10.1007/978-3-031-73650-6_1#Sec8) | - |
+| Understanding Multi-compositional learning in Vision and Language models via Category Theory | ECCV 2024 | [PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06472.pdf) | [CODE](https://github.com/SPChytas/CatCom) |
+| Beyond Seen Primitive Concepts for Attributes-Objects Compositional Learning | CVPR 2024 | [PDF](https://www.cs.umd.edu/~nirat/beyond_seen_concepts.pdf) | - |
+| Context-based and Diversity-driven Specificity in Compositional Zero-Shot Learning | CVPR 2024 | [PDF](https://arxiv.org/abs/2402.17251) | - |
+| Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning | CVPR 2024 | [PDF](https://arxiv.org/abs/2303.15230) | - |
+| Retrieval-Augmented Primitive Representations for Compositional Zero-Shot Learning | AAAI 2024 | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28043) | - |
+| ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning | AAAI 2024 | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29164) | [CODE](https://github.com/huofushuo/procc) |
+| Revealing the Proximate Long-Tail Distribution in Compositional Zero-Shot Learning | AAAI 2024 | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28026) | - |
+| A Dynamic Learning Method towards Realistic Compositional Zero-Shot Learning | AAAI 2024 | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28000) | - |
+| Continual Compositional Zero-Shot Learning | IJCAI 2024 | [PDF](https://www.ijcai.org/proceedings/2024/0191.pdf) | - |
+| CSCNET: Class-Specified Cascaded Network for Compositional Zero-Shot Learning | ICASSP 2024 | [PDF](https://ieeexplore.ieee.org/abstract/document/10638107) | [CODE](https://github.com/Yanyi-Zhang/CSCNet) |
+| Learning Conditional Prompt for Compositional Zero-Shot Learning | ICME 2024 | [PDF](https://ieeexplore.ieee.org/abstract/document/10688263/authors#authors) | - |
+| PMGNet: Disentanglement and entanglement benefit mutually for compositional zero-shot learning | CVIU 2024 | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1077314224002789) | - |
+| LVAR-CZSL: Learning Visual Attributes Representation for Compositional Zero-Shot Learning | TCSVT 2024 | [PDF](https://arxiv.org/abs/2403.05924) | [CODE](https://github.com/mxjmxj1/LVAR-CZSL) |
+| Agree to Disagree: Exploring Partial Semantic Consistency against Visual Deviation for Compositional Zero-Shot Learning | TCDS 2024 | [PDF](https://ieeexplore.ieee.org/document/10440562) | - |
+| Compositional Zero-Shot Learning using Multi-Branch Graph Convolution and Cross-layer Knowledge Sharing | PR 2024 | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
+| Visual primitives as words: Alignment and interaction for compositional zero-shot learning | PR 2024 | [PDF](https://www.sciencedirect.com/science/article/pii/S003132032400565X) | - |
+| Mutual Balancing in State-Object Components for Compositional Zero-Shot Learning | PR 2024 | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320324002024) | - |
+| GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-ShotLearning | WACV 2024 | [PDF](https://arxiv.org/pdf/2311.05729.pdf) | [CODE](https://github.com/HLR/GIPCOL) |
+| CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning | WACV 2024 | [PDF](https://openaccess.thecvf.com/content/WACV2024/html/Zheng_CAILA_Concept-Aware_Intra-Layer_Adapters_for_Compositional_Zero-Shot_Learning_WACV_2024_paper.html) | - |
+
 
 ### 2023
-| Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
-|:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-| Distilled Reverse Attention Network for Open-world Compositional Zero-Shot Learning | ICCV 2023 |MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Distilled_Reverse_Attention_Network_for_Open-world_Compositional_Zero-Shot_Learning_ICCV_2023_paper.pdf) | - |
-| Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning | ICCV 2023 | MIT-States & C-GQA &VAW-CZSL | [PDF](https://arxiv.org/pdf/2308.04016.pdf) | [CODE](https://github.com/HanjaeKim98/CoT) |
-| Do Vision-Language Pretrained Models Learn Composable Primitive Concepts? | TMLR 2023 | MIT-States | [PDF](https://arxiv.org/pdf/2203.17271.pdf) |  [CODE](https://github.com/tttyuntian/vlm_primitive_concepts) |
-| Reference-Limited Compositional Zero-Shot Learning | ICMR 2023 | RL-CZSL-ATTR & RL-CZSL-ACT | [PDF](https://arxiv.org/pdf/2208.10046) |   [CODE](-)   |
-| Learning Conditional Attributes for Compositional Zero-Shot Learning | CVPR 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Conditional_Attributes_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf) |   [CODE](https://github.com/wqshmzh/CANet-CZSL)   |
-| Learning Attention as Disentangler for Compositional Zero-shot Learning | CVPR 2023 | Clothing16K & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2303.15111) |   [CODE](https://github.com/haoosz/ade-czsl)   |
-| Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning | CVPR 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/abs/2211.10681)|   [CODE](https://github.com/Forest-art/DFSP)   |
-| Learning to Compose Soft Prompts for Compositional Zero-Shot Learning  | ICLR 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://openreview.net/pdf?id=S8-A2FXnIh) |   [CODE](https://github.com/BatsResearch/csp)   |
-| Compositional Zero-Shot Artistic Font Synthesis | IJCAI 2023 | SSAF & Fonts | [PDF](https://www.ijcai.org/proceedings/2023/122) |   [CODE](-)   |
-| Hierarchical Prompt Learning for Compositional Zero-Shot Recognition  | IJCAI 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.ijcai.org/proceedings/2023/163) |   -   |
-| Leveraging Sub-Class Discrimination for Compositional Zero-shot Learning | AAAI 2023 | UT-Zappos & C-GQA | [PDF](https://doi.org/10.1609/aaai.v37i1.25168)|   [CODE](https://github.com/hxm97/SCD-CZSL)   |
-| Dual-Stream Contrastive Learning for Compositional Zero-Shot Recognition | TMM 2023 | MIT-States & UT-Zappos | [PDF](https://ieeexplore.ieee.org/abstract/document/10044268)|   -   |
-| Isolating Features of Object and Its State for Compositional Zero-Shot Learning | TETCI 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://ieeexplore.ieee.org/document/10015197)|    -    |
-| Learning Attention Propagation for Compositional Zero-Shot Learning | WACV 2023 | MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Khan_Learning_Attention_Propagation_for_Compositional_Zero-Shot_Learning_WACV_2023_paper.pdf)|    -    |
+| Title                                                                                      |   Venue   |                                                                              PDF                                                                               |                      CODE                      |
+|:------------------------------------------------------------------------------------------ |:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| Distilled Reverse Attention Network for Open-world Compositional Zero-Shot Learning | ICCV 2023 | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Distilled_Reverse_Attention_Network_for_Open-world_Compositional_Zero-Shot_Learning_ICCV_2023_paper.pdf) | - |
+| Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning | ICCV 2023 | [PDF](https://arxiv.org/pdf/2308.04016.pdf) | [CODE](https://github.com/HanjaeKim98/CoT) |
+| Do Vision-Language Pretrained Models Learn Composable Primitive Concepts? | TMLR 2023 | [PDF](https://arxiv.org/pdf/2203.17271.pdf) |  [CODE](https://github.com/tttyuntian/vlm_primitive_concepts) |
+| Reference-Limited Compositional Zero-Shot Learning | ICMR 2023 | [PDF](https://arxiv.org/pdf/2208.10046) |   [CODE](-)   |
+| Learning Conditional Attributes for Compositional Zero-Shot Learning | CVPR 2023 | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Conditional_Attributes_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf) |   [CODE](https://github.com/wqshmzh/CANet-CZSL)   |
+| Learning Attention as Disentangler for Compositional Zero-shot Learning | CVPR 2023 | [PDF](https://arxiv.org/abs/2303.15111) |   [CODE](https://github.com/haoosz/ade-czsl)   |
+| Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning | CVPR 2023 | [PDF](https://arxiv.org/abs/2211.10681)|   [CODE](https://github.com/Forest-art/DFSP)   |
+| Learning to Compose Soft Prompts for Compositional Zero-Shot Learning  | ICLR 2023 | [PDF](https://openreview.net/pdf?id=S8-A2FXnIh) |   [CODE](https://github.com/BatsResearch/csp)   |
+| Compositional Zero-Shot Artistic Font Synthesis | IJCAI 2023 | [PDF](https://www.ijcai.org/proceedings/2023/122) |   [CODE](-)   |
+| Hierarchical Prompt Learning for Compositional Zero-Shot Recognition  | IJCAI 2023 | [PDF](https://www.ijcai.org/proceedings/2023/163) |   -   |
+| Leveraging Sub-Class Discrimination for Compositional Zero-shot Learning | AAAI 2023 | [PDF](https://doi.org/10.1609/aaai.v37i1.25168)|   [CODE](https://github.com/hxm97/SCD-CZSL)   |
+| Dual-Stream Contrastive Learning for Compositional Zero-Shot Recognition | TMM 2023 | [PDF](https://ieeexplore.ieee.org/abstract/document/10044268)|   -   |
+| Isolating Features of Object and Its State for Compositional Zero-Shot Learning | TETCI 2023 | [PDF](https://ieeexplore.ieee.org/document/10015197)|    -    |
+| Learning Attention Propagation for Compositional Zero-Shot Learning | WACV 2023 | [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Khan_Learning_Attention_Propagation_for_Compositional_Zero-Shot_Learning_WACV_2023_paper.pdf)|    -    |
+
 
 ### 2022
-| Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
-|:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-| A Decomposable Causal View of Compositional Zero-Shot Learning                             | TMM 2022  |      MIT-States & UT-Zappos       |                                              [PDF](https://ieeexplore.ieee.org/document/9864072/metrics#metrics)                                               |   [CODE](https://github.com/muliyangm/DeCa)    |
-| KG-SP: Knowledge Guided Simple Primitives for Open World Compositional Zero-Shot Learning  | CVPR 2022 |  MIT-States & UT-Zappos & C-GQA   |                                                            [PDF]( http://arxiv.org/pdf/2205.06784)                                                             | [CODE](https://github.com/explainableml/kg-sp) |
-| Disentangling Visual Embeddings for Attributes and Objects                                 | CVPR 2022 | MIT-States & UT-Zappos & VAW-CZSL |                                                          [PDF](https://arxiv.org/pdf/2205.08536.pdf)                                                           |   [CODE](https://github.com/nirat1606/oadis)   |
-| Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning                 | CVPR 2022 |  MIT-States & UT-Zappos & C-GQA   | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Siamese_Contrastive_Embedding_Network_for_Compositional_Zero-Shot_Learning_CVPR_2022_paper.pdf) | [CODE](https://github.com/XDUxyLi/SCEN-master) |
-| On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning |   ACM MM 2022   |  MIT-States & UT-Zappos & C-GQA   | [PDF](https://arxiv.org/abs/2204.11848) | -  |
-| 3D Compositional Zero-shot Learning with DeCompositional Consensus | ECCV 2022 | C-PartNet  | [PDF](https://arxiv.org/pdf/2111.14673.pdf)|    [CODE](https://github.com/ferjad/3DCZSL)    |
-| Learning Invariant Visual Representations for Compositional Zero-Shot Learning | ECCV 2022 | UT-Zappos & AO-CLEVr & Clothing16K | [PDF](https://arxiv.org/pdf/2206.00415.pdf)|    [CODE](https://github.com/PRIS-CV/IVR)    |
-| Learning Graph Embeddings for Open World Compositional Zero-Shot Learning |TPAMI 2022| MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2105.01017)| - |
-| Bi-Modal Compositional Network for Feature Disentanglement |ICIP 2022| MIT-States & UT-Zappos | [PDF](https://ieeexplore.ieee.org/document/9897457)| - |
+| Title                                                                                      |   Venue   |                                                                              PDF                                                                               |                      CODE                      |
+|:------------------------------------------------------------------------------------------ |:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| A Decomposable Causal View of Compositional Zero-Shot Learning                             | TMM 2022  | [PDF](https://ieeexplore.ieee.org/document/9864072/metrics#metrics)                                                      |   [CODE](https://github.com/muliyangm/DeCa)    |
+| KG-SP: Knowledge Guided Simple Primitives for Open World Compositional Zero-Shot Learning | CVPR 2022 | [PDF](http://arxiv.org/pdf/2205.06784)                                                                                   | [CODE](https://github.com/explainableml/kg-sp) |
+| Disentangling Visual Embeddings for Attributes and Objects                                 | CVPR 2022 | [PDF](https://arxiv.org/pdf/2205.08536.pdf)                                                                              |   [CODE](https://github.com/nirat1606/oadis)   |
+| Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning                 | CVPR 2022 | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Siamese_Contrastive_Embedding_Network_for_Compositional_Zero-Shot_Learning_CVPR_2022_paper.pdf) | [CODE](https://github.com/XDUxyLi/SCEN-master) |
+| On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning | ACM MM 2022 | [PDF](https://arxiv.org/abs/2204.11848)                                                                                   | -  |
+| 3D Compositional Zero-shot Learning with DeCompositional Consensus                         | ECCV 2022 | [PDF](https://arxiv.org/pdf/2111.14673.pdf)                                                                              | [CODE](https://github.com/ferjad/3DCZSL)    |
+| Learning Invariant Visual Representations for Compositional Zero-Shot Learning            | ECCV 2022 | [PDF](https://arxiv.org/pdf/2206.00415.pdf)                                                                              | [CODE](https://github.com/PRIS-CV/IVR)    |
+| Learning Graph Embeddings for Open World Compositional Zero-Shot Learning                 | TPAMI 2022 | [PDF](https://arxiv.org/pdf/2105.01017)                                                                                  | - |
+| Bi-Modal Compositional Network for Feature Disentanglement                                | ICIP 2022 | [PDF](https://ieeexplore.ieee.org/document/9897457)                                                                      | - |
+
 
 
 ### 2021
-| Title                                                                                 |    Venue     |            Dataset             |                                                                          PDF                                                                          |                        CODE                        |
-|:------------------------------------------------------------------------------------- |:------------:|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
-| Learning Graph Embeddings for Compositional Zero-Shot Learning                        |  CVPR 2021   | MIT-States & UT-Zappos & C-GQA | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) |   [CODE](https://github.com/ExplainableML/czsl)    |
-| Open World Compositional Zero-Shot Learning                                           |  CVPR 2021   |     MIT-States & UT-Zappos     |                                        [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9578210)                                        |   [CODE](https://github.com/ExplainableML/czsl)    |
-| Independent Prototype Propagation for Zero-Shot Compositionality                      | NeurIPS 2021 |      AO-Clevr & UT-Zappos      |                                                      [PDF](https://arxiv.org/pdf/2106.00305.pdf)                                                      |   [CODE](https://github.com/FrankRuis/ProtoProp)   |
-| Revisiting Visual Product for Compositional Zero-Shot Learning                      | NeurIPS 2021 |      MIT-States & UT-Zappos & C-GQA     |                                                      [PDF](https://openreview.net/pdf?id=Yc9Vh1nn-2I)                                  |   -   |
-| Learning Single/Multi-Attribute of Object with Symmetry and Group                     |  TPAMI 2021  |     MIT-States & UT-Zappos     |                                                        [PDF](https://arxiv.org/pdf/2110.04603)                                                        |  [CODE](https://github.com/DirtyHarryLYL/SymNet)   |
-|Relation-aware Compositional Zero-shot Learning for Attribute-Object Pair Recognition | TMM 2021 | MIT-States & UT-Zappos | [PDF](https://arxiv.org/pdf/2108.04603) | [CODE](https://github.com/daoyuan98/Relation-CZSL) |
-|A Contrastive Learning Approach for Compositional Zero-Shot Learning | ICMI 2021 | MIT-States & UT-Zappos & Fashion200k| [PDF](https://dl.acm.org/doi/abs/10.1145/3462244.3479904) | - |
+
  
 
 
 ### 2020
-| Title                                                                   |    Venue     |        Dataset         |                                                                   PDF                                                                    |                           CODE                            |
-|:----------------------------------------------------------------------- |:------------:|:----------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|
-| Symmetry and Group in Attribute-Object Compositions|  CVPR 2020   | MIT-States & UT-Zappos | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Symmetry_and_Group_in_Attribute-Object_Compositions_CVPR_2020_paper.pdf) | [CODE](https://github.com/DirtyHarryLYL/SymNet)|
-| Learning Unseen Concepts via Hierarchical Decomposition and Composition |  CVPR 2020   | MIT-States & UT-Zappos | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9156655) | - |
-| A causal view of compositional zero-shot recognition | NeurIPS 2020 |  UT-Zappos & AO-Clevr  | [PDF](https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf) | [CODE](https://github.com/nv-research-israel/causal_comp) |
-| Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition | NeurIPS 2020 | DFashion & AWA2 & CUB & SUN | [PDF](https://proceedings.neurips.cc/paper/2020/file/e58cc5ca94270acaceed13bc82dfedf7-Paper.pdf)| [CODE](https://github.com/hbdat/neurIPS20_CompositionZSL)|
+| Title                                                                                 |    Venue     |                                                                          PDF                                                                          |                        CODE                        |
+|:------------------------------------------------------------------------------------- |:------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
+| Learning Graph Embeddings for Compositional Zero-Shot Learning                        |  CVPR 2021   | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf) |   [CODE](https://github.com/ExplainableML/czsl)    |
+| Open World Compositional Zero-Shot Learning                                           |  CVPR 2021   | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9578210)                                        |   [CODE](https://github.com/ExplainableML/czsl)    |
+| Independent Prototype Propagation for Zero-Shot Compositionality                      | NeurIPS 2021 | [PDF](https://arxiv.org/pdf/2106.00305.pdf)                                                      |   [CODE](https://github.com/FrankRuis/ProtoProp)   |
+| Revisiting Visual Product for Compositional Zero-Shot Learning                      | NeurIPS 2021 | [PDF](https://openreview.net/pdf?id=Yc9Vh1nn-2I)                                  |   -   |
+| Learning Single/Multi-Attribute of Object with Symmetry and Group                     |  TPAMI 2021  | [PDF](https://arxiv.org/pdf/2110.04603)                                                        |  [CODE](https://github.com/DirtyHarryLYL/SymNet)   |
+| Relation-aware Compositional Zero-shot Learning for Attribute-Object Pair Recognition | TMM 2021 | [PDF](https://arxiv.org/pdf/2108.04603) | [CODE](https://github.com/daoyuan98/Relation-CZSL) |
+| A Contrastive Learning Approach for Compositional Zero-Shot Learning | ICMI 2021 | [PDF](https://dl.acm.org/doi/abs/10.1145/3462244.3479904) | - |
 
 
 ### 2019
-| Title                                                                                 |   Venue   |        Dataset         |                                                                PDF                                                                |                            CODE                             |
-|:------------------------------------------------------------------------------------- |:---------:|:----------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
-| Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition | ICCV 2019 | MIT-States & UT-Zappos | [PDF](https://see.xidian.edu.cn/faculty/chdeng/Welcome%20to%20Cheng%20Deng's%20Homepage_files/Papers/Conference/ICCV2019_Kun.pdf) |                              -                              |
-| Task-Driven Modular Networks for Zero-Shot Compositional Learning                     | ICCV 2019 | MIT-States & UT-Zappos |                                        [PDF](https://ieeexplore.ieee.org/document/9010265)                                        | [CODE](https://github.com/facebookresearch/taskmodularnets) |
-| Recognizing Unseen Attribute-Object Pair with Generative Model | AAAI 2019 | MIT-States & UT-Zappos | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/4907) | - |
+| Title                                                                                 |   Venue   |                                                                PDF                                                                |                            CODE                             |
+|:------------------------------------------------------------------------------------- |:---------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
+| Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition | ICCV 2019 | [PDF](https://see.xidian.edu.cn/faculty/chdeng/Welcome%20to%20Cheng%20Deng's%20Homepage_files/Papers/Conference/ICCV2019_Kun.pdf) |                              -                              |
+| Task-Driven Modular Networks for Zero-Shot Compositional Learning                     | ICCV 2019 | [PDF](https://ieeexplore.ieee.org/document/9010265)                                        | [CODE](https://github.com/facebookresearch/taskmodularnets) |
+| Recognizing Unseen Attribute-Object Pair with Generative Model | AAAI 2019 | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/4907) | - |
+
 
 ### 2018
-| Title                                                                                 |   Venue   |        Dataset         |                                                                PDF                                                                | CODE |
-|:------------------------------------------------------------------------------------- |:---------:|:----------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:----:|
-| Attributes as Operators: Factorizing Unseen Attribute-Object Compositions | CVPR 2018 | MIT-States & UT-Zappos  | [PDF](https://arxiv.org/pdf/1803.09851.pdf) | [CODE](https://github.com/Tushar-N/attributes-as-operators) |
+| Title                                          |   Venue   |                                      PDF                                      |                            CODE                             |
+|:---------------------------------------------- |:---------:|:----------------------------------------------------------------------------:|:-----------------------------------------------------------:|
+| Attributes as Operators: Factorizing Unseen Attribute-Object Compositions | CVPR 2018 | [PDF](https://arxiv.org/pdf/1803.09851.pdf) | [CODE](https://github.com/Tushar-N/attributes-as-operators) |
+
 
 ### 2017
-| Title                                                                                 |   Venue   |        Dataset         |                                                                PDF                                                                | CODE |
-|:------------------------------------------------------------------------------------- |:---------:|:----------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:----:|
-| From Red Wine to Red Tomato: Composition with Context | CVPR 2017 | MIT-States & UT-Zappos  | [PDF](https://ieeexplore.ieee.org/document/8099612) | [CODE](https://github.com/imisra/composing_cvpr17) |
+| Title                                          |   Venue   |                                      PDF                                      |                            CODE                             |
+|:---------------------------------------------- |:---------:|:----------------------------------------------------------------------------:|:-----------------------------------------------------------:|
+| From Red Wine to Red Tomato: Composition with Context | CVPR 2017 | [PDF](https://ieeexplore.ieee.org/document/8099612) | [CODE](https://github.com/imisra/composing_cvpr17) |
 
 ##  Datasets
 
