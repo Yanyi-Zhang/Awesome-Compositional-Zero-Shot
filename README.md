@@ -10,6 +10,7 @@ Papers and codes about Compositional Zero Shot Learning(CZSL) for computer visio
 | Beyond Image Classification: A Video Benchmark and Dual-Branch Hybrid Discrimination Framework for Compositional Zero-Shot Learning | CVPR 2025 | - | - |
 | LOGICZSL: Exploring Logic-induced Representation for Compositional Zero-shot Learning | CVPR 2025 | - | - |
 | Learning Clustering-based Prototypes for Compositional Zero-shot Learning | ICLR 2025 | [PDF](https://arxiv.org/abs/2502.06501) | [CODE](https://github.com/quhongyu/ClusPro) |
+| AOGN-CZSL: An Attribute- and Object-Guided Network for Compositional Zero-Shot Learning | IF 2025 | [PDF](https://www.sciencedirect.com/science/article/pii/S1566253525001691) | - |
 | Adaptive Fusion Learning for Compositional Zero-Shot Recognition | TMM 2025 | [PDF](https://ieeexplore.ieee.org/abstract/document/10814709) | - |
 | Compact Latent Primitive Space Learning for Compositional Zero-Shot Learning | TMM 2025 | [PDF](https://ieeexplore.ieee.org/abstract/document/10855509) | - |
 | Concept-Aware Graph Convolutional Network for Compositional Zero-Shot Learning | TNNLS 2025 | [PDF](https://ieeexplore.ieee.org/abstract/document/10856526) | - |
