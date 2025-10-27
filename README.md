@@ -13,6 +13,7 @@ Thanks!
 ### 2025
 | Title                                                                                      |   Venue   |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning | NeurIPS 2025 | [PDF](https://arxiv.org/abs/2510.20162) | - |
 | Learning Visual Proxy for Compositional Zero-Shot Learning | ICCV 2025 | - | - |
 | ZFusion: Efficient Deep Compositional Zero-shot Learning for Blind Image Super-Resolution with Generative Diffusion Prior | ICCV 2025 | - | - |
 | Zero-Shot Compositional Video Learning with Coding Rate Reduction | ICCV 2025 | - | - |
