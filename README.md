@@ -13,6 +13,8 @@ Thanks!
 ### 2025
 | Title                                                                                      |   Venue   |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| Unified Framework for Open-World Compositional Zero-shot Learning | IJCAI 2025 | [PDF](https://arxiv.org/abs/2412.04083) | - |
+| MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning | IJCAI 2025 | [PDF](https://doi.org/10.24963/ijcai.2025/224) | - |
 | TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning | NeurIPS 2025 | [PDF](https://arxiv.org/abs/2510.20162) | - |
 | Learning Visual Proxy for Compositional Zero-Shot Learning | ICCV 2025 | - | - |
 | ZFusion: Efficient Deep Compositional Zero-shot Learning for Blind Image Super-Resolution with Generative Diffusion Prior | ICCV 2025 | - | - |
